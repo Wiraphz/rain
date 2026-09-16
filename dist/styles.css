@@ -12,3 +12,6 @@
 @media(max-width:700px){.page-next{flex-wrap:wrap;gap:14px}.page-next>a{width:100%;justify-content:space-between;font-size:16px;padding:14px 20px;min-height:58px}}
 .hero .portfolio-title{font-size:clamp(36px,4.5vw,62px);font-weight:600;letter-spacing:-1.5px;line-height:1.25}.portfolio-title-th{display:block;font-size:clamp(27px,3vw,40px);font-weight:500;letter-spacing:0;line-height:1.6;margin-top:10px}@media(max-width:700px){.hero .portfolio-title{font-size:clamp(34px,9.6vw,52px)}.portfolio-title-th{font-size:clamp(25px,6.8vw,34px)}}
 .cover-image.cover-portrait,.portrait{background:#e7eef7}
+.tu-theme{color:#C3002F}
+:root{--blue:#C3002F;--ink:#2b1b20;--muted:#6f5a5d;--line:#ead7d9;--paper:#fffdf8;--soft:#fff5d9;--tu-yellow:#FFD13F}
+.button:hover,.page-next>a:hover{background:#980025}.closing-band{background:var(--blue)}.mini-line{background:var(--tu-yellow)}.aspiration{border-color:var(--tu-yellow)}.cover{background:#fff5d9}.cover-image{background:#ffedb0}.university-motto{color:#a77d00}.page-next>a{border-color:var(--blue);background:var(--blue);box-shadow:0 5px 14px #c3002f1c}.certificate:hover{border-color:var(--blue)}
