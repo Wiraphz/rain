@@ -15,3 +15,5 @@
 .tu-theme{color:#C3002F}
 :root{--blue:#C3002F;--ink:#2b1b20;--muted:#6f5a5d;--line:#ead7d9;--paper:#fffdf8;--soft:#fff5d9;--tu-yellow:#FFD13F}
 .button:hover,.page-next>a:hover{background:#980025}.closing-band{background:var(--blue)}.mini-line{background:var(--tu-yellow)}.aspiration{border-color:var(--tu-yellow)}.cover{background:#fff5d9}.cover-image{background:#ffedb0}.university-motto{color:#a77d00}.page-next>a{border-color:var(--blue);background:var(--blue);box-shadow:0 5px 14px #c3002f1c}.certificate:hover{border-color:var(--blue)}
+.thanks-serif{color:#C3002F}.cover-image.cover-portrait,.portrait{background:#fff5d9}.profile-photo{background:#fff5d9}.cover-portrait img,.portrait{background:#fff5d9}.university-lockup b{display:block;color:#806b35;font-size:15px;font-weight:600;line-height:1.6}.thanks{background:#fffdf8}.closing-band{color:#fff}
+.thanks-serif{color:#C3002F!important}.thanks{background:#fffdf8!important}.closing-band{background:#C3002F!important}.cover-image.cover-portrait,.profile-photo,.portrait{background:#fff5d9!important}

@@ -4,7 +4,7 @@ window.PORTFOLIO = {
   englishName: 'โชติกา การะเกตุ',
   school: 'โรงเรียนบ้านบึงอุตสาหกรรมนุเคราะห์',
   nickname: 'น้ำฝน', grade: 'ม.6', program: 'CSE', gpa: '4.00', email: 's34628@banbung.ac.th',
-  portrait: 'assets/CTK-blue.png',
+  portrait: 'assets/CTK-tu.png',
   schoolLogo: 'assets/BUU.jpg',
   universityLogo: 'assets/TU.png',
   introduction: 'แฟ้มสะสมผลงานฉบับนี้จัดทำขึ้นเพื่อรวบรวมข้อมูลส่วนตัวและเกียรติบัตรประกอบการสมัครเข้าศึกษาต่อในคณะพาณิชยศาสตร์และการบัญชี มหาวิทยาลัยธรรมศาสตร์ โดยหวังว่าจะเป็นพื้นที่ถ่ายทอดตัวตน ความตั้งใจ และเส้นทางการเรียนรู้ของข้าพเจ้า',
