@@ -1,6 +1,6 @@
 const fs = require('node:fs');
 const vm = require('node:vm');
-for (const page of ['index.html', 'profile.html', 'certificates.html', 'thanks.html']) {
+for (const page of ['index.html', 'preface.html', 'profile.html', 'experience.html', 'thanks.html']) {
   const app = { innerHTML: '' };
   const context = { window: {}, location: { pathname: '/' + page }, document: { querySelector: s => s === '#app' ? app : null } };
   vm.createContext(context);
